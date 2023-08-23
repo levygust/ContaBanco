@@ -11,12 +11,12 @@
                 System.out.println("Por favor, digite a agência!!");
                 String agencia = sc.nextLine();
         
-                System.out.println("Por favor, digite o número da conta!");
+                System.out.println("Por favor, digite o número da conta!!");
                 int numero = sc.nextInt();
                 //clearBuffer(sc);
                 
                
-                System.out.println("Por favor, digite o saldo!");
+                System.out.println("Por favor, digite o saldo!!");
                 Double saldo = sc.nextDouble();
                 
         
